@@ -16,7 +16,7 @@
 
 <div>
   <a href="https://beacons.ai/jlucasdev7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlucasdev7&show_icons=true&text_color=ffffff&title_color=ff0000&icon_color=ff0000&border_color=ff0000&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlucasde7&show_icons=true&text_color=ffffff&title_color=ff0000&icon_color=ff0000&border_color=ff0000&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasdev7&layout=compact&langs_count=16&theme=dark&title_color=ff0000&border_color=ff0000&text_color=ffffff"/>
 </div>
 
