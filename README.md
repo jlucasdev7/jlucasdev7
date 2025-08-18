@@ -7,7 +7,6 @@
 #
 
 - Olá, Me chamo João Lucas e...
-- 🗂️ Atualmente Não Estou No Ramo Comercial
 - 🌱 Bacharelando Sistemas De Informação Na UFPB (Universidade Federal da Paraíba)
 - 💻 Linguagem Favorita: Python
 - 🎒 Sempre Buscando Atualizar e Melhorar Meus Conhecimentos...
